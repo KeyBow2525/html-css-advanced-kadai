@@ -15,7 +15,7 @@ p {
 /*================
 PC用のスタイル 
 =================*/
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767.5px) {
   /* 横幅設定 */
   body {
     max-width: 1080px;
@@ -70,7 +70,7 @@ PC用のスタイル
 }
 
 /* スマホ用のスタイル */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767.5px) {
   body {
     min-width: 375px;
     margin: 0;
